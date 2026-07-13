@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🌌 AgenticOS: The Autonomous Pattern Engine
 
@@ -116,7 +116,7 @@ Our dashboard is meticulously engineered to provide an "Expert-Level $50k" aesth
 
 *"Code is the foundation. Patterns are the design. AgenticOS is the standard."*
 
-[GitHub](https://github.com/m-shamim09/awesome-agent-patterns) · [Documentation](docs/) · [Discussions](https://github.com/m-shamim09/awesome-agent-patterns)
+[GitHub](https://github.com/agentic-saim09/awesome-agent-patterns) · [Documentation](docs/) · [Discussions](https://github.com/agentic-saim09/awesome-agent-patterns)
 
 </div>
 
@@ -132,8 +132,8 @@ Our dashboard is meticulously engineered to provide an "Expert-Level $50k" aesth
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
